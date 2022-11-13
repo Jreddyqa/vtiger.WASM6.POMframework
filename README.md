@@ -1,0 +1,1 @@
+# vtiger.WASM6.POMframework
